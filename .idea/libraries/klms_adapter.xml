@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="klms-adapter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/klms-adapter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/kmip4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
