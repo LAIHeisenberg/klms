@@ -5,6 +5,5 @@
     <file url="file://$PROJECT_DIR$/app-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/klms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/klms-db" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/klms/src/main/java/ch/ntb/inf/klms/KLMSInterface.java" charset="UTF-8" />
   </component>
 </project>
