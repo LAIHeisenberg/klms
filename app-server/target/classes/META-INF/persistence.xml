@@ -28,7 +28,7 @@
 <!--			<property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect" />-->
 <!--		</properties>-->
 
-		
+
 		<properties>
 
 			<property name="eclipselink.ddl-generation" value="create-tables"/>
@@ -38,9 +38,14 @@
 
 
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://127.0.0.1:3306/klmsdb?useSSL=false&amp;allowPublicKeyRetrieval=true" />
-			<property name="javax.persistence.jdbc.user" value="laiyz" />
-			<property name="javax.persistence.jdbc.password" value="123456" />
+
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://192.168.1.76:3316/klmsdb?useSSL=false&amp;allowPublicKeyRetrieval=true" />
+			<property name="javax.persistence.jdbc.user" value="root" />
+			<property name="javax.persistence.jdbc.password" value="root" />
+
+<!--			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://127.0.0.1:3306/klmsdb?useSSL=false&amp;allowPublicKeyRetrieval=true" />-->
+<!--			<property name="javax.persistence.jdbc.user" value="laiyz" />-->
+<!--			<property name="javax.persistence.jdbc.password" value="123456" />-->
 
 			<property name="hibernate.hbm2ddl.auto" value="create-drop" />
 			<property name="hibernate.show_sql" value="true" />
